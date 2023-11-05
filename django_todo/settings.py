@@ -27,7 +27,7 @@ SECRET_KEY = config('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-monikamula-heydjango-u9l380c483c.ws-eu105.gitpod.io']
+ALLOWED_HOSTS = ['8000-monikamula-heydjango-xopuhu24usf.ws-eu105.gitpod.io']
 
 
 # Application definition
